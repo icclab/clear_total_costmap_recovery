@@ -6,3 +6,4 @@ A ROS package that exports the ROS plugin clear_total_costmap_recovery. This rec
   - name: 'super_aggressive_reset'
     type: 'clear_total_costmap_recovery/ClearTotalCostmapRecovery'
 ```` 
+Check http://wiki.ros.org/pluginlib for more info on ROS plugins.
