@@ -1,0 +1,7 @@
+<library path="lib/libclear_total_costmap_recovery">
+  <class name="clear_total_costmap_recovery/ClearTotalCostmapRecovery" type="clear_total_costmap_recovery::ClearTotalCostmapRecovery" base_class_type="nav_core::RecoveryBehavior">
+    <description>
+      A recovery behavior that reverts all the costmap to the static map.
+    </description>
+  </class>
+</library>
